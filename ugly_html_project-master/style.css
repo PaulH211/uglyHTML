@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(84, 84, 201);
+    color:gold;
+}
+
+h2, p, li, .pokemon_names {
+    color:rgb(247, 247, 247);
+    font-family: Playfair;
+}
+
+#starters_image_div {
+    border: 5px solid rgb(84, 84, 201);
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 44%;
+}
+
+.pokemon_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#bulbasaur_container {
+    border-radius: 20px;
+    background-color: rgb(0, 138, 0);
+    border: 1px solid rgb(244, 248, 0);
+}
+
+#charmander_container {
+    background-color: orange;
+}
+
+#squirtle_container {
+    background-color: blue;
+}
