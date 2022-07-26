@@ -1,4 +1,4 @@
-* {
+body {
     background-color: rgb(0, 0, 0);
 }
 
@@ -36,9 +36,13 @@ h2, p, li, .pokemon_names {
 }
 
 #charmander_container {
-    background-color: orange;
+    border-radius: 20px;
+    background-color: rgb(211, 163, 5);
+    border: 1px solid rgb(244, 248, 0);
 }
 
 #squirtle_container {
-    background-color: blue;
+    border-radius: 20px;
+    background-color: rgb(0, 174, 255);
+    border: 1px solid rgb(244, 248, 0);
 }
